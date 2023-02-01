@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>492641288786-2b4he65t1umr8r3uiph6fh48iqgi6had.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.492641288786-2b4he65t1umr8r3uiph6fh48iqgi6had</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>492641288786-fucomute3gpm42hn7cstot3nacm80nbc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCEfyW__dw-ys8_zqyxUTKZAoaF1bqKF3Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>492641288786</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.butterfly.ok</string>
+	<key>PROJECT_ID</key>
+	<string>butterfly12</string>
+	<key>STORAGE_BUCKET</key>
+	<string>butterfly12.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:492641288786:ios:7ea01465ce751f82c3958b</string>
+</dict>
+</plist>

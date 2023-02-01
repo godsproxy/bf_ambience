@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "492641288786",
+    "project_id": "butterfly12",
+    "storage_bucket": "butterfly12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492641288786:android:46a1feb12f6aeab2c3958b",
+        "android_client_info": {
+          "package_name": "app.butterfly.ok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492641288786-r3m53k7cg8pf2st6gi9hja2cpjvk42vp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.butterfly.ok",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "492641288786-o9rmat3ss40m8p77flqssbfet0i2tkv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9oiZLh2t3xX4qO0UVa0QjGYvOT0MYAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492641288786-o9rmat3ss40m8p77flqssbfet0i2tkv4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492641288786-1kmhgf1li066s3scm68p0normopn416l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.quickstart.messagingQuickstart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492641288786:android:f6367003d79c187ec3958b",
+        "android_client_info": {
+          "package_name": "com.example.butterfly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492641288786-fucomute3gpm42hn7cstot3nacm80nbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.butterfly",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "492641288786-o9rmat3ss40m8p77flqssbfet0i2tkv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9oiZLh2t3xX4qO0UVa0QjGYvOT0MYAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492641288786-o9rmat3ss40m8p77flqssbfet0i2tkv4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492641288786-1kmhgf1li066s3scm68p0normopn416l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.quickstart.messagingQuickstart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
